@@ -1,0 +1,26 @@
+{
+    "name": "police",
+    "alias": ["Future X-Cops ","Mei loi ging chaat"],
+    "publish": "2010-04-29",
+    "images":{
+        "coverBig":"/img/movie/1_big.jpg",
+        "coverSmall":"/img/movie/1_small.jpg"
+    },
+    "source":[{
+        "source":"youku",
+        "link":"http://www.youku.com",
+        "swfLink":"http://player.youku.com/player.php/sid/XMTY4NzM5ODc2/v.swf",
+        "quality":"gaoqing",
+        "version":"zhengpian",
+        "lang":"hanyu",
+        "subtitle":"zhongwenzimu"
+    },{
+        "source":"soouhu",
+        "link":"http://tv.sohu.com",
+        "swfLink":"http://share.vrs.sohu.com/75837/v.swf&topBar=1&autoplay=false&plid=3860&pub_catecode=",
+        "quality":"gaoqing",
+        "version":"zhengpian",
+        "lang":"hanyu",
+        "subtitle":"zhongwenzimu"
+    }]
+}
